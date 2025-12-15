@@ -25,16 +25,24 @@
 coolapk
 微博
 52pojie
-
-
-### 没加的平台
+简书
+快手
+linuxdo
+producthunt
+知乎
+### 选项里没加的平台
 英雄联盟
 崩坏
 星穹铁道
 米游社
 原神
+游研社
 
 ## 不建议加的平台
 douyin
 history
 it之家（喜加1
+精英玩家俱乐部
+
+## 论坛
+nodeseek 服务器论坛 https://www.nodeseek.com
