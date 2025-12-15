@@ -22,8 +22,10 @@
 ![](./_assets/2.png)
 
 ### 失效的平台
-colapk
+coolapk
 微博
+52pojie
+
 
 ### 没加的平台
 英雄联盟
@@ -31,3 +33,8 @@ colapk
 星穹铁道
 米游社
 原神
+
+## 不建议加的平台
+douyin
+history
+it之家（喜加1
