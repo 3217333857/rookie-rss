@@ -23,13 +23,8 @@
 
 ### 失效的平台
 coolapk
-微博
-52pojie
 简书
-快手
 linuxdo
-producthunt
-知乎
 ### 选项里没加的平台
 英雄联盟
 崩坏
